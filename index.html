@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Prática de japonês | Preparação NM4</title>
+  <meta name="description" content="Preparação NM4 com vocabulário NM5 e NM4, cartões, imagens e exercícios de frases.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23386b52'/%3E%3Cpath d='M16 18h32v30H16z' fill='none' stroke='%23fff' stroke-width='4'/%3E%3Cpath d='M22 28h20M22 37h14' stroke='%23ffc45b' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top"><div class="wrap"><div class="brand">日本語れんしゅう <span>NM4</span></div><h1>Prática de japonês</h1><p>Vocabulário NM5 e NM4</p></div></header>
+  <main class="wrap">
+    <nav class="modes" aria-label="Tipos de prática">
+      <button class="mode active" data-mode="list">Ver palavras</button>
+      <button class="mode" data-mode="cards">Cartões</button>
+      <button class="mode" data-mode="quiz">Quiz de palavras</button>
+      <button class="mode" data-mode="pictures">Olhe a imagem e escolha</button>
+      <button class="mode" data-mode="sentences">Prática de frases</button>
+      <button class="mode" data-mode="adjectives">Frases com adjetivos</button>
+    </nav>
+    <div class="filters" id="filters">
+      <label>Tipo de palavra<select id="type"><option value="all">Todos</option><option value="名詞">Substantivos</option><option value="い形容詞">Adjetivos い</option><option value="な形容詞">Adjetivos な</option><option value="副詞">Advérbios</option></select></label>
+      <label>Categoria<select id="category"><option value="all">Todas</option></select></label>
+      <label class="search">Buscar<input id="search" type="search" placeholder="Japonês ou português"></label>
+    </div>
+    <div class="status" id="status" aria-live="polite"></div>
+    <section id="surface" aria-live="polite"></section>
+    <p class="source">Vocabulário de substantivos, adjetivos e advérbios. As traduções em português são para estudo.</p>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

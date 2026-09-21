@@ -1,0 +1,2403 @@
+[
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おねえさん",
+    "pt": "irmã mais velha",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "げつようび",
+    "pt": "segunda-feira",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ちゅうしゃ",
+    "pt": "injeção",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "はなや",
+    "pt": "floricultura",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "め（目）",
+    "pt": "olho",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "き（木）",
+    "pt": "árvore",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "たんじょうび",
+    "pt": "aniversário",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "フォーク",
+    "pt": "garfo",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "あかちゃん",
+    "pt": "bebê",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おばあさん",
+    "pt": "avó / idosa",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "げんかん",
+    "pt": "entrada da casa",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ちょうちょ",
+    "pt": "borboleta",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "パラグアイ",
+    "pt": "Paraguai",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "めがね",
+    "pt": "óculos",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "アイスクリーム",
+    "pt": "sorvete",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "きいろ",
+    "pt": "amarelo",
+    "category": "色"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "チョーク",
+    "pt": "giz",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ブラウス",
+    "pt": "blusa",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "あし",
+    "pt": "perna / pé",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おばあちゃん",
+    "pt": "vovó",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "コアラ",
+    "pt": "coala",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "つくえ",
+    "pt": "mesa / escrivaninha",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "パン",
+    "pt": "pão",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "メキシコ",
+    "pt": "México",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あいだ",
+    "pt": "entre / intervalo",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "きっぷ",
+    "pt": "passagem / bilhete",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "チョコレート",
+    "pt": "chocolate",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ふん（分）",
+    "pt": "minuto",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "あした",
+    "pt": "amanhã",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おもちゃ",
+    "pt": "brinquedo",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "コーヒー",
+    "pt": "café",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "て",
+    "pt": "mão",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "パンダ",
+    "pt": "panda",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "メロン",
+    "pt": "melão",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あお",
+    "pt": "azul",
+    "category": "色"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "キャベツ",
+    "pt": "repolho",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "つめ",
+    "pt": "unha",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "へそ",
+    "pt": "umbigo",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "あなた",
+    "pt": "você",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "オレンジ（果物）",
+    "pt": "laranja (fruta)",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "コーラ",
+    "pt": "refrigerante de cola",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "テーブル",
+    "pt": "mesa",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "パンや",
+    "pt": "padaria",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "もくようび",
+    "pt": "quinta-feira",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あか",
+    "pt": "vermelho",
+    "category": "色"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "クリスマス",
+    "pt": "Natal",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "てがみ",
+    "pt": "carta",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "べんきょう",
+    "pt": "estudo",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "アメリカ",
+    "pt": "Estados Unidos",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "こども",
+    "pt": "criança",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "テレビ",
+    "pt": "televisão",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ひ（火）",
+    "pt": "fogo",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "もも",
+    "pt": "pêssego",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あさ",
+    "pt": "manhã",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "こうえん",
+    "pt": "parque",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "テニス",
+    "pt": "tênis",
+    "category": "スポーツ"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ボール",
+    "pt": "bola",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "アルゼンチン",
+    "pt": "Argentina",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かえる",
+    "pt": "sapo",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "コロンビア",
+    "pt": "Colômbia",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "でんわ",
+    "pt": "telefone",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ピアノ",
+    "pt": "piano",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あさごはん",
+    "pt": "café da manhã",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ごご",
+    "pt": "tarde (p.m.)",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "デパート",
+    "pt": "loja de departamentos",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いえ",
+    "pt": "casa",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かお",
+    "pt": "rosto",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ドイツ",
+    "pt": "Alemanha",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ひきだし",
+    "pt": "gaveta",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "やさい",
+    "pt": "verduras / legumes",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あたま",
+    "pt": "cabeça",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ごぜん",
+    "pt": "manhã (a.m.)",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "てんき",
+    "pt": "tempo / clima",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "まいにち",
+    "pt": "todos os dias",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "イギリス",
+    "pt": "Reino Unido",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かき",
+    "pt": "caqui",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "さかな",
+    "pt": "peixe",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "トイレ",
+    "pt": "banheiro",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ひこうき",
+    "pt": "avião",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "やま",
+    "pt": "montanha",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "あめ（飴）",
+    "pt": "bala / doce",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "コップ",
+    "pt": "copo",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "でんしゃ",
+    "pt": "trem",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "みぎ",
+    "pt": "direita",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いす",
+    "pt": "cadeira",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かぎ",
+    "pt": "chave",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "さら",
+    "pt": "prato",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "どうぶつ",
+    "pt": "animal",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "びょういん",
+    "pt": "hospital",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "よこ",
+    "pt": "ao lado",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "いとこ",
+    "pt": "primo(a)",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ごはん",
+    "pt": "arroz / refeição",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "てんぷら",
+    "pt": "tempurá",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "みせ",
+    "pt": "loja",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "イタリア",
+    "pt": "Itália",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かさ",
+    "pt": "guarda-chuva",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "さる",
+    "pt": "macaco",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "どうぶつえん",
+    "pt": "zoológico",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ふうせん",
+    "pt": "balão",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "うどん",
+    "pt": "udon",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ドア",
+    "pt": "porta",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "みんな",
+    "pt": "todos",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いちご",
+    "pt": "morango",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かぞく",
+    "pt": "família",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "サンドイッチ",
+    "pt": "sanduíche",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "とけい",
+    "pt": "relógio",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ぶた",
+    "pt": "porco",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ライオン",
+    "pt": "leão",
+    "category": "動物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "うみ",
+    "pt": "mar",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "さしみ",
+    "pt": "sashimi",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "としょかん",
+    "pt": "biblioteca",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "もち",
+    "pt": "mochi",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いぬ",
+    "pt": "cachorro",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "がっこう",
+    "pt": "escola",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "した",
+    "pt": "embaixo",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ともだち",
+    "pt": "amigo(a)",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ぶどう",
+    "pt": "uva",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ラジオ",
+    "pt": "rádio",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "えいご",
+    "pt": "inglês",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "サッカー",
+    "pt": "futebol",
+    "category": "スポーツ"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "としょしつ",
+    "pt": "sala de leitura",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いま（今）",
+    "pt": "agora",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かば",
+    "pt": "hipopótamo",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "しっぽ",
+    "pt": "rabo",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "どようび",
+    "pt": "sábado",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ふね",
+    "pt": "barco / navio",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "りんご",
+    "pt": "maçã",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "えき",
+    "pt": "estação",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ざっし",
+    "pt": "revista",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "トマト",
+    "pt": "tomate",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "やきそば",
+    "pt": "yakisoba",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いま（居間）",
+    "pt": "sala de estar",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かばん",
+    "pt": "bolsa / mala",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "じてんしゃ",
+    "pt": "bicicleta",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ブラジル",
+    "pt": "Brasil",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "れいぞうこ",
+    "pt": "geladeira",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "エレベーター",
+    "pt": "elevador",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "じ（字）",
+    "pt": "letra",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "やすみ",
+    "pt": "folga / férias",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いもうと",
+    "pt": "irmã mais nova",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かようび",
+    "pt": "terça-feira",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "じどうしゃ",
+    "pt": "automóvel",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "なか",
+    "pt": "dentro",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ぶらんこ",
+    "pt": "balanço",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "えん（円）",
+    "pt": "iene",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "じ（時）",
+    "pt": "hora",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ナイフ",
+    "pt": "faca",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ゆうびんきょく",
+    "pt": "correios",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "いろ",
+    "pt": "cor",
+    "category": "色"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "カレーライス",
+    "pt": "curry com arroz",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "シャツ",
+    "pt": "camisa",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "なし",
+    "pt": "pera",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "フランス",
+    "pt": "França",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "わたし",
+    "pt": "eu",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "オートバイ",
+    "pt": "motocicleta",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "じしょ",
+    "pt": "dicionário",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "なまえ",
+    "pt": "nome",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ゆび",
+    "pt": "dedo",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "うえ",
+    "pt": "em cima",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "カンガルー",
+    "pt": "canguru",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ジュース",
+    "pt": "suco",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "なす",
+    "pt": "berinjela",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ベッド",
+    "pt": "cama",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "わに",
+    "pt": "jacaré",
+    "category": "動物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おかし",
+    "pt": "doces / salgadinhos",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "シャーペン",
+    "pt": "lapiseira",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "にく",
+    "pt": "carne",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "よる（夜）",
+    "pt": "noite",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "うさぎ",
+    "pt": "coelho",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "かんこく",
+    "pt": "Coreia do Sul",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "すいか",
+    "pt": "melancia",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "にちようび",
+    "pt": "domingo",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "へび",
+    "pt": "cobra",
+    "category": "動物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おしょうがつ",
+    "pt": "Ano Novo",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "しゃしん",
+    "pt": "foto",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "にほんご",
+    "pt": "língua japonesa",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "うし",
+    "pt": "vaca",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きのう",
+    "pt": "ontem",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "すいようび",
+    "pt": "quarta-feira",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "にほん",
+    "pt": "Japão",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "へや",
+    "pt": "quarto",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おすし",
+    "pt": "sushi",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "じゅうどう",
+    "pt": "judô",
+    "category": "スポーツ"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "にほんじん",
+    "pt": "japonês (pessoa)",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ラーメン",
+    "pt": "lámen",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "うしろ",
+    "pt": "atrás",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きゅうり",
+    "pt": "pepino",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "スーパー",
+    "pt": "supermercado",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "にわ",
+    "pt": "jardim / quintal",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ペルー",
+    "pt": "Peru",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おとこのこ",
+    "pt": "menino",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "じゅぎょう",
+    "pt": "aula",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ネクタイ",
+    "pt": "gravata",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "レストラン",
+    "pt": "restaurante",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "うち",
+    "pt": "casa / lar",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きょう",
+    "pt": "hoje",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "スパゲッティ",
+    "pt": "espaguete",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "にわとり",
+    "pt": "galinha",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ボールペン",
+    "pt": "caneta esferográfica",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おなか",
+    "pt": "barriga",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "しゅくだい",
+    "pt": "lição de casa",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "レタス",
+    "pt": "alface",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "うま",
+    "pt": "cavalo",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きょうかい",
+    "pt": "igreja",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "スペイン",
+    "pt": "Espanha",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "にんぎょう",
+    "pt": "boneca",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ぼく",
+    "pt": "eu (masculino)",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おにぎり",
+    "pt": "bolinho de arroz",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "しろ",
+    "pt": "branco",
+    "category": "色"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "はし（箸）",
+    "pt": "hashi",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ウルグアイ",
+    "pt": "Uruguai",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きょうしつ",
+    "pt": "sala de aula",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "すべりだい",
+    "pt": "escorregador",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "にんじん",
+    "pt": "cenoura",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ほし",
+    "pt": "estrela",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おはし（箸）",
+    "pt": "hashi",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "しんぶん",
+    "pt": "jornal",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "バス",
+    "pt": "ônibus",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "～ご（語）",
+    "pt": "idioma / língua",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "え",
+    "pt": "desenho",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きりん",
+    "pt": "girafa",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ズボン",
+    "pt": "calça",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ねこ",
+    "pt": "gato",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ボリビア",
+    "pt": "Bolívia",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おもち",
+    "pt": "mochi",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "すいえい",
+    "pt": "natação",
+    "category": "スポーツ"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "はん（半）",
+    "pt": "metade",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "～じん（人）",
+    "pt": "nacionalidade / pessoa",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "えんぴつ",
+    "pt": "lápis",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ぎんこう",
+    "pt": "banco",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "せいと",
+    "pt": "aluno",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ねずみ",
+    "pt": "rato",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ポルトガル",
+    "pt": "Portugal",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "オレンジ（色）",
+    "pt": "laranja (cor)",
+    "category": "色"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "すうがく",
+    "pt": "matemática",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ばん（晩）",
+    "pt": "noite",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "～や（屋）",
+    "pt": "loja de",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おかあさん",
+    "pt": "mãe",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "きんようび",
+    "pt": "sexta-feira",
+    "category": "時間・曜日"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "せっけん",
+    "pt": "sabonete",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ノート",
+    "pt": "caderno",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ほん",
+    "pt": "livro",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おんがく",
+    "pt": "música",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "スカート",
+    "pt": "saia",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ばんごはん",
+    "pt": "jantar",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おさら",
+    "pt": "prato",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "くだもの",
+    "pt": "frutas",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "せんせい",
+    "pt": "professor(a)",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ほんや",
+    "pt": "livraria",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "おんなのこ",
+    "pt": "menina",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "すし",
+    "pt": "sushi",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ハンバーガー",
+    "pt": "hambúrguer",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おじいさん",
+    "pt": "avô / idoso",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "くち",
+    "pt": "boca",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ぞう",
+    "pt": "elefante",
+    "category": "動物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "は（歯）",
+    "pt": "dente",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "スプーン",
+    "pt": "colher",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ビール",
+    "pt": "cerveja",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おじいちゃん",
+    "pt": "vovô",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "くつ",
+    "pt": "sapatos",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "そと",
+    "pt": "fora",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "パイナップル",
+    "pt": "abacaxi",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "まえ",
+    "pt": "na frente",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "カーテン",
+    "pt": "cortina",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "スポーツ",
+    "pt": "esporte",
+    "category": "スポーツ"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ビスケット",
+    "pt": "biscoito",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おちゃ",
+    "pt": "chá",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "くつした",
+    "pt": "meias",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "はこ",
+    "pt": "caixa",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "まど",
+    "pt": "janela",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "かいしゃ",
+    "pt": "empresa",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "セーター",
+    "pt": "suéter",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ひだり",
+    "pt": "esquerda",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おてあらい",
+    "pt": "banheiro",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "くるま",
+    "pt": "carro",
+    "category": "乗り物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "だいどころ",
+    "pt": "cozinha",
+    "category": "場所・建物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "はさみ",
+    "pt": "tesoura",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "みかん",
+    "pt": "mexerica",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "かたかな",
+    "pt": "katakana",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ぜんぶ",
+    "pt": "tudo",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ひらがな",
+    "pt": "hiragana",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おとうさん",
+    "pt": "pai",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ケーキ",
+    "pt": "bolo",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "タオル",
+    "pt": "toalha",
+    "category": "服・身につけるもの"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "はな（花）",
+    "pt": "flor",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "みず",
+    "pt": "água",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "カレンダー",
+    "pt": "calendário",
+    "category": "家のもの"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "そば（側）",
+    "pt": "perto / ao lado",
+    "category": "位置・方向"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ひる",
+    "pt": "meio-dia",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おとうと",
+    "pt": "irmão mais novo",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "けいたい",
+    "pt": "celular",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "たまねぎ",
+    "pt": "cebola",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "はな（鼻）",
+    "pt": "nariz",
+    "category": "体"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "みみ",
+    "pt": "orelha",
+    "category": "体"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "かわ（川）",
+    "pt": "rio",
+    "category": "身の回り・その他"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ひるごはん",
+    "pt": "almoço",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "おにいさん",
+    "pt": "irmão mais velho",
+    "category": "人・家族"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "けしゴム",
+    "pt": "borracha",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ちゅうごく",
+    "pt": "China",
+    "category": "国・言語"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "バナナ",
+    "pt": "banana",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM5",
+    "type": "名詞",
+    "term": "ミルク",
+    "pt": "leite",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "かんじ（漢字）",
+    "pt": "kanji",
+    "category": "学校・勉強"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "たまご",
+    "pt": "ovo",
+    "category": "食べ物・飲み物"
+  },
+  {
+    "level": "NM4",
+    "type": "名詞",
+    "term": "ピンポン",
+    "pt": "tênis de mesa",
+    "category": "スポーツ"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "あおい",
+    "pt": "azul",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "あかい",
+    "pt": "vermelho",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "おおきい",
+    "pt": "grande",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "きいろい",
+    "pt": "amarelo",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "くろい",
+    "pt": "preto",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "しろい",
+    "pt": "branco",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "たかい",
+    "pt": "alto",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "ちいさい",
+    "pt": "pequeno",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "ちゃいろい",
+    "pt": "marrom",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "ながい",
+    "pt": "comprido",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "ひくい",
+    "pt": "baixo",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM5",
+    "type": "い形容詞",
+    "term": "みじかい",
+    "pt": "curto",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "あかるい",
+    "pt": "claro / iluminado",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "あたらしい",
+    "pt": "novo",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "あつい（暑い）",
+    "pt": "quente (clima)",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "あまい",
+    "pt": "doce",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "いい",
+    "pt": "bom",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "おいしい",
+    "pt": "gostoso",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "くらい",
+    "pt": "escuro",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "さむい",
+    "pt": "frio",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "せまい",
+    "pt": "estreito / apertado",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "たかい（値段）",
+    "pt": "caro",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "たのしい",
+    "pt": "divertido",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "ひろい",
+    "pt": "amplo",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "ふるい",
+    "pt": "velho (objeto)",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "むずかしい",
+    "pt": "difícil",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "やさしい（易しい）",
+    "pt": "fácil",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "やすい",
+    "pt": "barato",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "い形容詞",
+    "term": "からい",
+    "pt": "apimentado",
+    "category": "い形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "な形容詞",
+    "term": "きらい",
+    "pt": "não gostar",
+    "category": "な形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "な形容詞",
+    "term": "きれい",
+    "pt": "bonito / limpo",
+    "category": "な形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "な形容詞",
+    "term": "しずか",
+    "pt": "silencioso",
+    "category": "な形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "な形容詞",
+    "term": "じょうず",
+    "pt": "habilidoso",
+    "category": "な形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "な形容詞",
+    "term": "すき",
+    "pt": "gostar",
+    "category": "な形容詞"
+  },
+  {
+    "level": "NM4",
+    "type": "副詞",
+    "term": "すこし",
+    "pt": "um pouco",
+    "category": "副詞"
+  },
+  {
+    "level": "NM4",
+    "type": "副詞",
+    "term": "たくさん",
+    "pt": "muito / muitos",
+    "category": "副詞"
+  },
+  {
+    "level": "NM4",
+    "type": "副詞",
+    "term": "ちょっと",
+    "pt": "um pouco",
+    "category": "副詞"
+  },
+  {
+    "level": "NM4",
+    "type": "副詞",
+    "term": "よく",
+    "pt": "frequentemente / bem",
+    "category": "副詞"
+  },
+  {
+    "level": "NM4",
+    "type": "副詞",
+    "term": "ぜんぶ",
+    "pt": "tudo",
+    "category": "副詞"
+  }
+]

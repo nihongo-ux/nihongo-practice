@@ -1,0 +1,218 @@
+[
+  {
+    "term": "じゅぎょう",
+    "pt": "aula",
+    "group": "学校",
+    "image": "images/nm4-01.webp"
+  },
+  {
+    "term": "べんきょう",
+    "pt": "estudo",
+    "group": "学校",
+    "image": "images/nm4-02.webp"
+  },
+  {
+    "term": "すいえい",
+    "pt": "natação",
+    "group": "スポーツ",
+    "image": "images/nm4-03.webp"
+  },
+  {
+    "term": "ピンポン",
+    "pt": "tênis de mesa",
+    "group": "スポーツ",
+    "image": "images/nm4-04.webp"
+  },
+  {
+    "term": "じゅうどう",
+    "pt": "judô",
+    "group": "スポーツ",
+    "image": "images/nm4-05.webp"
+  },
+  {
+    "term": "サッカー",
+    "pt": "futebol",
+    "group": "スポーツ",
+    "image": "images/nm4-06.webp"
+  },
+  {
+    "term": "ブラウス",
+    "pt": "blusa",
+    "group": "服",
+    "image": "images/nm4-07.webp"
+  },
+  {
+    "term": "スカート",
+    "pt": "saia",
+    "group": "服",
+    "image": "images/nm4-08.webp"
+  },
+  {
+    "term": "チョコレート",
+    "pt": "chocolate",
+    "group": "食べ物",
+    "image": "images/nm4-09.webp"
+  },
+  {
+    "term": "オートバイ",
+    "pt": "motocicleta",
+    "group": "乗り物",
+    "image": "images/nm4-10.webp"
+  },
+  {
+    "term": "ゆび",
+    "pt": "dedo",
+    "group": "体",
+    "image": "images/nm4-11.webp"
+  },
+  {
+    "term": "ざっし",
+    "pt": "revista",
+    "group": "学校",
+    "image": "images/nm4-12.webp"
+  },
+  {
+    "term": "しんぶん",
+    "pt": "jornal",
+    "group": "学校",
+    "image": "images/nm4-13.webp"
+  },
+  {
+    "term": "としょかん",
+    "pt": "biblioteca",
+    "group": "場所",
+    "image": "images/nm4-14.webp"
+  },
+  {
+    "term": "カーテン",
+    "pt": "cortina",
+    "group": "家",
+    "image": "images/nm4-15.webp"
+  },
+  {
+    "term": "キャベツ",
+    "pt": "repolho",
+    "group": "食べ物",
+    "image": "images/nm4-16.webp"
+  },
+  {
+    "term": "トマト",
+    "pt": "tomate",
+    "group": "食べ物",
+    "image": "images/nm4-17.webp"
+  },
+  {
+    "term": "アイスクリーム",
+    "pt": "sorvete",
+    "group": "食べ物",
+    "image": "images/nm4-18.webp"
+  },
+  {
+    "term": "あたま",
+    "pt": "cabeça",
+    "group": "体",
+    "image": "images/nm4-19.webp"
+  },
+  {
+    "term": "あめ（飴）",
+    "pt": "bala / doce",
+    "group": "食べ物",
+    "image": "images/nm4-20.webp"
+  },
+  {
+    "term": "うどん",
+    "pt": "udon",
+    "group": "食べ物",
+    "image": "images/nm4-21.webp"
+  },
+  {
+    "term": "うみ",
+    "pt": "mar",
+    "group": "自然",
+    "image": "images/nm4-22.webp"
+  },
+  {
+    "term": "えき",
+    "pt": "estação",
+    "group": "場所",
+    "image": "images/nm4-23.webp"
+  },
+  {
+    "term": "エレベーター",
+    "pt": "elevador",
+    "group": "場所",
+    "image": "images/nm4-24.webp"
+  },
+  {
+    "term": "おかし",
+    "pt": "doces / salgadinhos",
+    "group": "食べ物",
+    "image": "images/nm4-25.webp"
+  },
+  {
+    "term": "カレンダー",
+    "pt": "calendário",
+    "group": "家",
+    "image": "images/nm4-26.webp"
+  },
+  {
+    "term": "すし",
+    "pt": "sushi",
+    "group": "食べ物",
+    "image": "images/nm4-27.webp"
+  },
+  {
+    "term": "おとこのこ",
+    "pt": "menino",
+    "group": "人",
+    "image": "images/nm4-28.webp"
+  },
+  {
+    "term": "おんなのこ",
+    "pt": "menina",
+    "group": "人",
+    "image": "images/nm4-29.webp"
+  },
+  {
+    "term": "おなか",
+    "pt": "barriga",
+    "group": "体",
+    "image": "images/nm4-30.webp"
+  },
+  {
+    "term": "おにぎり",
+    "pt": "bolinho de arroz",
+    "group": "食べ物",
+    "image": "images/nm4-31.webp"
+  },
+  {
+    "term": "はし（箸）",
+    "pt": "hashi",
+    "group": "家",
+    "image": "images/nm4-32.webp"
+  },
+  {
+    "term": "おんがく",
+    "pt": "música",
+    "group": "学校",
+    "image": "images/nm4-33.webp"
+  },
+  {
+    "term": "かいしゃ",
+    "pt": "empresa",
+    "group": "場所",
+    "image": "images/nm4-34.webp"
+  },
+  {
+    "term": "かわ（川）",
+    "pt": "rio",
+    "group": "自然",
+    "image": "images/nm4-35.webp"
+  },
+  {
+    "term": "き（木）",
+    "pt": "árvore",
+    "group": "自然",
+    "image": "images/nm4-36.webp"
+  }
+]
