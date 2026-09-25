@@ -1,12 +1,12 @@
 let words=[],pictures=[],pictureRound=[],mode='list',index=0,revealed=false,answered=false,score=0,total=0,quizChoices=[];
 const $=s=>document.querySelector(s),surface=$('#surface');
 const sentenceQuestions=[
-  {q:'こうえんに こどもが ______ います。',a:'たくさん',choices:['たくさん','ぜんぶ','すこし','よく'],note:'「たくさん」 indica grande quantidade. 「ぜんぶ」 significa “todos” ou “tudo”.'},
+  {q:'こうえんに こどもが ______ います。',a:'たくさん',choices:['たくさん','ぜんぶ','あまり','よく'],note:'「たくさん」 indica grande quantidade. 「ぜんぶ」 significa “todos” ou “tudo”.'},
   {q:'りんごは ３こ ______ ６レアルです。',a:'で',choices:['で','の','と','に'],note:'Para dizer o preço de uma quantidade, usamos 「３こで６レアル」: três unidades por seis reais.'},
   {q:'この まちは ______ では ありません。',a:'しずか',choices:['しずか','おいしい','あつい','ふるい'],note:'Na forma negativa de um adjetivo な, usamos 「しずかではありません」.'},
   {q:'わたしは さんすうが ______ では ありません。',a:'きらい',choices:['きらい','あつい','ながい','おいしい'],note:'「きらいではありません」 significa “não detesto” ou “não desgosto”.'},
   {q:'やすみは １０がつ３にち ______ です。',a:'まで',choices:['まで','に','と','へ'],note:'「まで」 indica o último dia ou o limite de um período.'},
-  {q:'「これは マリアさんの ほんですか。」「いいえ、______ です。」',a:'わたしのです',choices:['わたしのです','わたしです','だれです','どこです'],note:'「の」 retoma o objeto já mencionado: 「わたしのです」 significa “é meu”.'},
+  {q:'「これは マリアさんの ほんですか。」「いいえ、______ です。」',a:'わたしのです',choices:['わたしの','わたし','だれ','どこ'],note:'「の」 retoma o objeto já mencionado: 「わたしのです」 significa “é meu”.'},
   {q:'この へやは ______ です。',a:'ひろい',choices:['ひろい','よく','ぜんぶ','たくさん'],note:'「ひろい」 é um adjetivo い que descreve o tamanho da sala.'},
   {q:'わたしは サッカーが ______ です。',a:'すき',choices:['すき','あつい','あかるい','ながい'],note:'Para dizer que gosta de algo, usamos 「～が すきです」.'},
   {q:'ねこは つくえの ______ います。',a:'したに',choices:['したに','したを','したで','したへ'],note:'Para indicar onde alguém ou algum animal está, usamos 「～に います」.'},
